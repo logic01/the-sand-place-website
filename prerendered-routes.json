@@ -1,0 +1,11 @@
+{
+  "routes": [
+    "/",
+    "/about",
+    "/birthdays",
+    "/contact",
+    "/faq",
+    "/home",
+    "/reservations"
+  ]
+}
